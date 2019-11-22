@@ -1,4 +1,4 @@
-
+# made by R1FLY
 from PyQt5 import QtWidgets
 from calculator import Ui_MainWindow  # import file
 import sys
