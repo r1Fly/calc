@@ -1,4 +1,4 @@
-!PYTHON! 
-This is simple calculator for use.
-if you wanna open the project, you should enter in terminal like "python3 main.py" for linux or "python main.py" for macOS and Windows.
-!PYTHON!
+!PYTHON! <hr/> <br/> 
+This is simple calculator for use. <hr/> <br/> 
+if you wanna open the project, you should enter in terminal like "python3 main.py" for linux or "python main.py" for macOS and Windows. <hr/> <br/> 
+!PYTHON! <hr/>
